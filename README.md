@@ -1,1 +1,1 @@
-# pintos
+# Pint-OS
